@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="label1Text">Naprężenie i ugięcie płyty kołowej</string>
+    <string name="emptySting"> - nieokreślony - </string>
+    <string name="button1Text">WPISZ DANE I OBLICZ</string>
+    <string name="textInsert1">ZMIANA WARTOŚCI PARAMETRÓW</string>
+    <string name="textInsertF">Podaj F [N]</string>
+    <string name="oneValue">1,0</string>
+    <string name="labelInsertR">Podaj R [mm]</string>
+    <string name="labelInsertH">Podaj H [mm]</string>
+    <string name="labelInsertBtOk">ZATWIERDŹ</string>
+    <string name="labelInsertBtCan">ANULUJ</string>
+    <string name="incorrectData">Niepoprawne dane!</string>
+    <string name="sila">F=%6.3f [N]</string>
+    <string name="promien">R=%6.3f [N]</string>
+    <string name="grubosc">H=%6.3f [N]</string>
+    <string name="naprezenie">Sigma=%6.3f [N]</string>
+    <string name="ugiecie">Umax=%6.3f [N]</string>
+
+</resources>
